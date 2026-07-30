@@ -1,0 +1,32 @@
+.painel {
+  background-color: var(--cor-card);
+  padding: 2rem;
+  border-radius: 16px;
+  width: 100%;
+  max-width: 420px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+}
+
+.painel__titulo {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.painel__gerar {
+  width: 100%;
+  margin-top: 1.5rem;
+  background-color: var(--cor-primaria);
+  color: #04231a;
+  border: none;
+  border-radius: 8px;
+  padding: 0.9rem;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+
+.painel__gerar:hover {
+  opacity: 0.9;
+}
