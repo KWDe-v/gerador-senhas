@@ -1,9 +1,5 @@
 # 🔐 Gerador de Senhas
 
-![Screenshot do projeto](./screenshot.png)
-
-> Substitua a imagem acima por um print da sua aplicação rodando.
-
 ## 📖 Descrição
 
 Um gerador de senhas aleatórias feito em **React**. O usuário escolhe o tamanho da senha e se quer incluir números e símbolos. A senha gerada pode ser copiada com um clique. Bom projeto para praticar **estado**, **formulários** e **manipulação de dados**.
@@ -31,10 +27,6 @@ npm run dev
 ```
 
 Depois abra o endereço mostrado no terminal (geralmente `http://localhost:5173`).
-
-## 🌐 Como acessar o projeto publicado
-
-> Adicione aqui o link após publicar na Vercel ou Netlify.
 
 ## 📁 Estrutura básica do projeto
 
